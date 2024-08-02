@@ -5,6 +5,14 @@ This repo recorded the process when you get a 5g module, and want to set up in y
 ## Process
 
  1. insert SIM card into the board.
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/16680a3f-cec9-44d4-8958-581b6489f6f6" alt="3c692c26950ceb1801e6f5a4a923d5e" width="500" height="300">
+</p>
+    
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/ac0e3d16-809e-4e3e-bcfd-1dd1131c134b" alt="30c23b753dee50292f86613765af468" width="500" height="300">
+</p>
+
  2. Plug it into the computer.
  3. Install driver called "1_Quectel_UNISOC_5G_Windows_USB_Driver_RNDIS_V1.0.7", which you can find on the Internet. Decompress, click on the "setup.exe".
  4. Install SSM software(any Serial port app), select the "comX USB AT XXX", sent the following commands:
