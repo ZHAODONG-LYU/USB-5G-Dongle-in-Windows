@@ -24,4 +24,4 @@ This repo recorded the process when you get a 5g module, and want to set up in y
 
   `NOTE :  if you are using RM500U, please set 3, if RM500Q, you can set in both 3 and 2. RM500U's performance is a little bit low for 2 -- mbim model`
 ## Reference
-[1] [Chinese doc](https://www.waveshare.net/wiki/RM500U-CN_5G_HAT#Windows_.E7.B3.BB.E7.BB.9FRNDIS_.E6.8B.A8.E5.8F.B7.E4.B8.8A.E7.BD.91)
+[1] [Quectel RM50x Doc - Chinese version](https://www.waveshare.net/wiki/RM500U-CN_5G_HAT#Windows_.E7.B3.BB.E7.BB.9FRNDIS_.E6.8B.A8.E5.8F.B7.E4.B8.8A.E7.BD.91)
